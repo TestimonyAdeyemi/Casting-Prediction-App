@@ -1,7 +1,7 @@
 import streamlit as st
 import time
 import numpy as np
-import tensorflow
+import tensorflow as tf
 from skimage.metrics import structural_similarity as ssim
 from skimage import io, color, transform
 
